@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/chp20/github/t-route/src/python_framework_v01"
+    ],
+    "gitlens.hovers.pullRequests.enabled": false,
+    "gitlens.hovers.currentLine.details": true,
+    "gitlens.hovers.currentLine.changes": false,
+    "gitlens.hovers.enabled": false
+}
